@@ -4,7 +4,7 @@
 **Datum:** 16. Juni 2026
 
 ## 1. Einleitung
-Mein Name ist Amir Mohammad, ich bin 14 Jahre alt und besuche zur Zeit die [نام مدرسه‌ات] in [ایران]. Ich habe ein klares und großes Ziel für meine Zukunft: Ich möchte Künstliche Intelligenz studieren. Mein Traum ist es, dafür an eine der weltweit besten Universitäten zu gehen – in die Schweiz.
+Mein Name ist Amir Mohammad, ich bin 14 Jahre alt und besuche zur Zeit die [Haj Qasem Soleimani Schule] in [Iran]. Ich habe ein klares und großes Ziel für meine Zukunft: Ich möchte Künstliche Intelligenz studieren. Mein Traum ist es, dafür an eine der weltweit besten Universitäten zu gehen – in die Schweiz.
 
 ## 2. Warum die Schweiz?
 Die Schweiz ist für mich der perfekte Ort, um diesen Traum zu verwirklichen:
