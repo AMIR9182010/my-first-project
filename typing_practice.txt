@@ -1,0 +1,13 @@
+سلام! من امیرمحمد هستم و ۱۴ سال دارم.
+من تازه شروع کردم به یادگیری Python و زبان آلمانی.
+هدف من این است که با بورسیه تحصیلی به Switzerland بروم.
+من هر روز تمرین می‌کنم تا بتوانم به هدفم برسم.
+GitHub یک ابزار عالی برای ذخیره کدهای من است.           Hello! My name is Amir Mohammad and I am 14 years old.
+I just started learning Python and German language.
+My goal is to go to Switzerland with a scholarship.
+I practice every day to achieve my goal.
+من امروز ۱۵ دقیقه ویدیو Python دیدم.
+I learned how to use print() and variables.
+بعد از کلاس زبان آلمانی، می‌خواهم تمرین کنم.
+My next goal is to write a simple calculator program.
+همچنین باید برای المپیاد کامپیوتر آماده شوم.GitHub is a great tool for saving my codes.
