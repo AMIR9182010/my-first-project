@@ -1,67 +1,47 @@
-# my-first-project
-اولین پروژه پایتون من
-# سلام! # امیرمحمد | Amir Mohammad | امیرمحمد
-
-> *"از امروز شروع کن، نه فردا."*
+# امیرمحمد | AmirMohammad | AmirMohammad
 
 ---
 
 ## 🇮🇷 فارسی
 
-سلام! من **امیرمحمد** هستم، ۱۴ ساله و دانش‌آموز مدرسه عرفان ۱.  
-از کودکی به فناوری و کامپیوتر علاقه داشتم، اما از وقتی با هوش مصنوعی آشنا شدم، هدفم مشخص شد:  
-**تحصیل در رشته هوش مصنوعی در یکی از بهترین دانشگاه‌های سوئیس با بورسیه تحصیلی.**
+سلام! من **امیرمحمد** هستم، ۱۴ ساله و دانش‌آموز کلاس هشتم.  
+از وقتی با هوش مصنوعی آشنا شدم، هدفم مشخص شد:  
+**کار در شرکت گوگل به عنوان مهندس یا محقق هوش مصنوعی در دفتر زوریخ، سوئیس.**
 
-من تازه شروع کردم به یادگیری پایتون و هر روز سعی می‌کنم یک قدم به هدفم نزدیک‌تر شوم.  
-این گیت‌هاب محل ذخیره‌سازی مسیر یادگیری منه، از کدهای ساده تا پروژه‌های بزرگتر.
-
-**باور دارم که با تلاش و پشتکار، هیچ رویایی غیرممکن نیست.**
+من از همین الان شروع کردم به یادگیری پایتون، تمرین تایپ، و مطالعه در زمینه هوش مصنوعی.  
+هر روز یک قدم به هدفم نزدیک‌تر می‌شوم و باور دارم که با تلاش و پشتکار، هیچ رویایی غیرممکن نیست.
 
 ---
 
 ## 🇬🇧 English
 
-Hello! I'm **Amir Mohammad**, 14 years old, and a student at Erfan 1 School.  
-I've always been interested in technology, but ever since I discovered Artificial Intelligence, my goal became clear:  
-**To study AI at one of the best universities in Switzerland with a scholarship.**
+Hello! I'm **AmirMohammad**, 14 years old, and an 8th-grade student.  
+Ever since I discovered Artificial Intelligence, my goal became clear:  
+**To work at Google as an AI engineer or researcher at their Zurich office in Switzerland.**
 
-I've just started learning Python, and I try to take one step closer to my goal every day.  
-This GitHub is where I document my learning journey — from simple codes to bigger projects.
-
-**I believe that with hard work and consistency, no dream is out of reach.**
+I've started learning Python, practicing typing, and studying AI from now.  
+Every day, I take one step closer to my goal, and I believe that with hard work and consistency, no dream is impossible.
 
 ---
 
 ## 🇩🇪 Deutsch (mit Ersatzbuchstaben)
 
-Hallo! Ich bin **Amir Mohammad**, 14 Jahre alt und Schueler an der Erfan 1 Schule.  
-Ich interessiere mich schon immer fuer Technologie, aber seit ich Kuenstliche Intelligenz entdeckt habe, ist mein Ziel klar:  
-**KI an einer der besten Universitaeten in der Schweiz mit einem Stipendium zu studieren.**
+Hallo! Ich bin **AmirMohammad**, 14 Jahre alt und Schueler in der 8. Klasse.  
+Seit ich Kuenstliche Intelligenz entdeckt habe, ist mein Ziel klar:  
+**Bei Google als KI-Ingenieur oder Forscher im Bueround in Zuerich, Schweiz zu arbeiten.**
 
-Ich habe gerade angefangen, Python zu lernen, und versuche jeden Tag, meinem Ziel ein Stueck naeher zu kommen.  
-Dieses GitHub ist mein Lern-Tagebuch — von einfachen Codes bis zu groesseren Projekten.
-
-**Ich glaube, dass mit Fleiss und Ausdauer kein Traum unerreichbar ist.**
+Ich habe bereits angefangen, Python zu lernen, Tippen zu ueben und mich mit KI zu beschaeftigen.  
+Jeden Tag komme ich meinem Ziel einen Schritt naeher, und ich glaube, dass mit Fleiss und Ausdauer kein Traum unmoeglich ist.
 
 ---
 
-## 📌 Aktuelle Ziele (فارسی)
+## 📫 راه‌های ارتباطی | Contact | Kontakt
 
-- [x] ثبت‌نام در گیت‌هاب و ساخت مخزن
-- [x] نوشتن اولین کد پایتون
-- [ ] یادگیری مبانی پایتون (در حال انجام)
-- [ ] یادگیری زبان آلمانی تا سطح B2
-- [ ] ساخت پروژه کوچک هوش مصنوعی
-- [ ] قبولی در آزمون ورودی ETH Zurich
+- **گیت‌هاب | GitHub:** [github.com/AMIR9182010](https://github.com/AMIR9182010)
+- **ایمیل | Email:** amirnori828@gmail.com
 
 ---
 
-## 📫 Kontakt / ارتباط
-
-- **GitHub:** [github.com/AMIR9182010](https://github.com/AMIR9182010)
-- **Email:** amirnori828@gmail.com
-
----
-
-⭐ *Wenn dir mein Profil gefaellt, gib mir einen Stern!*  
-⭐ *اگر از پروفایلم خوشت اومد، بهش ستاره بده!*
+⭐ **اگر از پروفایلم خوشت اومد، بهش ستاره بده!**  
+⭐ **If you like my profile, give it a star!**  
+⭐ **Wenn dir mein Profil gefaellt, gib mir einen Stern!**
