@@ -1,0 +1,37 @@
+# Advanced Number Analyzer (Unlimited Numbers)
+print("=" * 30)
+print("   Advanced Number Analyzer")
+print("=" * 30)
+
+numbers = []
+count = 0
+total = 0
+
+while True:
+    user_input = input("Enter a number (or 'done' to finish): ")
+    if user_input == "done":
+        break
+    try:
+        num = float(user_input)
+        numbers.append(num)
+        total += num
+        count += 1
+    except ValueError:
+        print("Invalid input! Please enter a number or 'done'.")
+
+if count > 0:
+    average = total / count
+    maximum = max(numbers)
+    minimum = min(numbers)
+
+    print("\n" + "=" * 30)
+    print("   Results")
+    print("=" * 30)
+    print("Numbers entered: " + str(count))
+    print("Sum: " + str(total))
+    print("Average: " + str(average))
+    print("Maximum: " + str(maximum))
+    print("Minimum: " + str(minimum))
+else:
+    print("No numbers were entered.")
+اضافه کردن برنامه تحلیل‌گر اعداد نامحدود
